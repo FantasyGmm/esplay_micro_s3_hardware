@@ -1,7 +1,7 @@
 # esplay_micro_s3_hardware
 Micro version of esplay hardware, ESP32S3 based gaming console
 
-#警告：上传的PCB 还未验证！！！！等下个月白嫖
+# 警告：上传的PCB 还未验证！！！！等下个月白嫖
 
 基于pebri86的硬件修改而来<br>
 Hardware modification based on PEbri86<br>
